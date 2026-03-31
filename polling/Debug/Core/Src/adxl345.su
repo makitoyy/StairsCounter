@@ -1,0 +1,4 @@
+../Core/Src/adxl345.c:21:6:ADXL345_WriteRegister	24	static
+../Core/Src/adxl345.c:32:9:ADXL345_ReadRegister	32	static
+../Core/Src/adxl345.c:45:6:ADXL345_ReadAccel	48	static
+../Core/Src/adxl345.c:61:6:ADXL345_Init	16	static

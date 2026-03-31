@@ -1,0 +1,2 @@
+../Core/Src/step_detector.c:12:6:StepDetector_Init	16	static
+../Core/Src/step_detector.c:26:6:StepDetector_Process	56	static
